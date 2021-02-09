@@ -11,7 +11,7 @@
 
 ![基础功能](./package/img/example.gif)
 
-其他功能可查看demo：复制此仓库代码，安装依赖然后运动即可查看其他功能的示例
+其他功能可查看demo：复制此仓库代码，安装依赖然后运动即可查看其他功能的示例,也可直接访问[demo](https://yantong.github.io/leaf/#/Calendar)
 
   > github: [vue-calender-mobile](https://github.com/yantong/vue-calendar-mobile)
 
