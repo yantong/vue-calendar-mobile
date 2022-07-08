@@ -1,4 +1,4 @@
-# vue-calender-mobile
+# calendar-mobile-vue
 * 基于vue的移动端日历组件
 * 支持月和周模式的切换
 * 滑动和切换模式都有较好的动画效果
@@ -13,12 +13,12 @@
 
 其他功能可查看demo：复制此仓库代码，安装依赖然后运行即可查看其他功能的示例
 
-  > github: [vue-calender-mobile](https://github.com/yantong/vue-calendar-mobile)
+  > github: [calendar-mobile-vue](https://github.com/yantong/calendar-mobile-vue)
 
 # 安装
 
 ```
-npm i vue-calender-mobile -S
+npm i calendar-mobile-vue -S
 ```
 
 # 引入
@@ -28,8 +28,8 @@ npm i vue-calender-mobile -S
 ```javascript
 import Vue from 'vue'
 import App from './App.vue'
-import Calendar from 'vue-calender-mobile'
-import  'vue-calender-mobile/lib/vue-calender-mobile.css'
+import Calendar from 'calendar-mobile-vue'
+import  'calendar-mobile-vue/lib/calendar-mobile-vue.css'
 
 Vue.use(Calendar)
 
@@ -42,7 +42,7 @@ new Vue({
 
 ```
 // 在VUE文件中引入组件
-<vue-calender-mobile></vue-calender-mobile>
+<calendar-mobile-vue></calendar-mobile-vue>
  ```
 
 # Attributes

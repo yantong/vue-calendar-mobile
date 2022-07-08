@@ -1,13 +1,13 @@
 {
-  "name": "vue-calender-mobile",
-  "version": "1.0.1",
-  "main": "lib/vue-calender-mobile.umd.min.js",
+  "name": "calendar-mobile-vue",
+  "version": "1.0.0",
+  "main": "lib/calendar-mobile-vue.umd.min.js",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name vue-calender-mobile --dest lib package/index.js"
+    "lib": "vue-cli-service build --target lib --name calendar-mobile-vue --dest lib package/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",

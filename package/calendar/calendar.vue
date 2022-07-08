@@ -116,7 +116,7 @@ import "./calendar.less";
 let id = 0;
 
 export default {
-  name: "VueCalenderMobile",
+  name: "CalendarMobileVue",
   props: {
     value: {
       type: Date,
